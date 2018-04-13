@@ -5,6 +5,3 @@ permalink: /about/
 ---
 
 This is a lot of things all-in-one. If you're looking for my Resume, that's up top. 
-
-
-[jekyll-organization]: https://github.com/jekyll
